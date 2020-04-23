@@ -85,7 +85,7 @@ Tried to start from most generalistic information to more detailed
 
 
 
-Thank you so much for going through this :-) 
+Thank you so much for taking the time to go through this :-) 
 
 --> overall question: when writing "if statements", should I always make them as part of functions, or can I just let them as just ifs, like I did in most cases?
 Thank you! 
