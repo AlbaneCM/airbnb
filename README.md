@@ -4,7 +4,7 @@ first_project
 
 First Data Science project
 
-Goal: to train on concepts reviewed so far on Python, Pandas, NumPy, Seaborn, Matlplotlib altogether using Bash. This project mainly applies data visualization notions. 
+Goal: to train on concepts reviewed so far on Python, Pandas, NumPy, Seaborn, Matlplotlib. This project mainly applies data visualization notions. 
 
 Web scraping and machine learning have not been reviewed yet. 
 
@@ -13,8 +13,11 @@ Data: http://insideairbnb.com/get-the-data.html
 
 Goal for this project: replicate some basic analysis I could have performed on hotels. 
 
-1. Option: to be able to chose a marketplace to analyse among several ones. I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
+1. a/ Overall: 
+Option: to be able to chose a marketplace to analyse among several ones. I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
 
+1. b/ On Jupyter Notebook: 
+First, loaded all csv files. They are all too heavy to load on GitHub so I included one of the lightest ones: Ottawa. 
 
 2. Tried to clean unusable data such as numeric or date columns that were texts. 
 
