@@ -16,7 +16,7 @@ Goal for this project: replicate some basic analysis I could have performed on h
 1. Option: to be able to chose a marketplace to analyse among several ones. I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
 
 
-2. Tried to clean unsable data such as numeric or date columns that were texts. 
+2. Tried to clean unusable data such as numeric or date columns that were texts. 
 
 3. The first part of the project contains some basic information that was allowing me to purely train on the concepts I learned in the Data Science codecademy program. i.e. quantile divisions, distribution modality, median, variance, standard deviation. 
 
