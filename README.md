@@ -13,6 +13,9 @@ Data: http://insideairbnb.com/get-the-data.html
 
 Goal for this project: replicate some basic analysis I could have performed on hotels. 
 
+*Note: I had started separately a blog review with this information on New York only, to explain more the analysis behind each graph. Hence why some comments are already made about New York and not about other markets. 
+Please feel free to indicate whether this seems a good idea to continue doing so or if graphs are pretty self-explanatory. 
+
 1. a/ Overall: 
 Option: to be able to chose a marketplace to analyse among several ones. I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
 
@@ -78,9 +81,34 @@ Tried to start from most generalistic information to more detailed
 		Not indicated often - pure curiosity 
 		2. a/ Part of hosts that are superhosts 
 		   b/ By borough
-		   c/ Average number of listings per host per borough 
-	   3. Number of units per year 
+
+
+--> From here onwards: data added recently, so they look more like drafts, I would like to review if column names on pivot tables can be changed for example. Goal was to train/review groupby and pivot tables >		  
+	  	3. Average number of listings per host per borough 
+		4. Number of units per year 
 	   	  Easily showing when each marketplace boomed, by room type 
+		5. Average length of stay per borough
+		6. a/Correlation between average score and response time --> tried to put together information that would make sense, that I was curious about 
+		  b/ And looked further to verify if there was a simple explanation. 
+		  Comments here apply to New York. 
+Unsurprisingly, hosts who take the longest to respond generally have lower Rating Scores, and Hosts who are Superhosts have higher Scores.
+However, communication is not the score with a lower score, except when hosts respond within a few days of more and are not Superhosts.
+
+		7. Correlation between profile picture and number of reviews by month: 
+		Do guests who don't have profile pictures have less visitors per month?
+		# a/ Overall
+		There isn't a big difference in number of reivew per month overall between hosts who do and those who don't have a profile picture.
+		# b/ By borough
+		Comments here apply to New York. 
+However when looking at details by borough, it seems Queens recorded a particularly high number of reviews for per month (3.2 without profile picture vs 2.0 with one, on average), skewing all other boroughs' average which do indicate there is a lower number of reviews per month when the host doesn't have a profile picture.
+		8. Average LOS required by borough by bed type
+		Comments here apply to New York. 
+The average length of stay requested overall is 7.4 nights, with Manhattan having the highest one: 9.0. Futons are actually the bed type requesting the highest minimum night stay, higher than real beds (+0.5pts), and Airbeds require a higher length of Stay than Couches, which require the lowest number of nights stay.
+
+		9. Average rating by borough by bed type
+		Comments here apply to New York.
+Staten Island and Brooklyn record the highest rating scores overall. Manhattan records a score below average: 93.7. 
+This table doesn't take into account the number of reviews written by borough.
 
 
 
