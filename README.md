@@ -80,9 +80,7 @@ Tried to start from most generalistic information to more detailed
 		Not indicated often - pure curiosity 
 		2. a/ Part of hosts that are superhosts 
 		   b/ By borough
-
-
-From here onwards: data added today, so it does not look as finished, I would like to review if column names on pivot tables can be changed for example. Goal to add this was for me to train/review groupby and pivot tables		  
+		From here onwards: data added today, so it does not look as finished, I would like to review if column names on pivot tables can be changed for example. Goal to add this was for me to train/review groupby and pivot tables		  
 	  	3. Average number of listings per host per borough 
 		4. Number of units per year 
 	   	  Easily showing when each marketplace boomed, by room type 
