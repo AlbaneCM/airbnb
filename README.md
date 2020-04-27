@@ -92,9 +92,9 @@ Unsurprisingly, hosts who take the longest to respond generally have lower Ratin
 However, communication is not the score with a lower score, except when hosts respond within a few days of more and are not Superhosts.
 		7. Correlation between profile picture and number of reviews by month: 
 		Do guests who don't have profile pictures have less visitors per month?
-		# a/ Overall
+		a/ Overall
 		There isn't a big difference in number of reivew per month overall between hosts who do and those who don't have a profile picture.
-		# b/ By borough
+		b/ By borough
 		Comments here apply to New York. 
 However when looking at details by borough, it seems Queens recorded a particularly high number of reviews for per month (3.2 without profile picture vs 2.0 with one, on average), skewing all other boroughs' average which do indicate there is a lower number of reviews per month when the host doesn't have a profile picture.
 		8. Average LOS required by borough by bed type
