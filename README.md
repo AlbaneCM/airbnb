@@ -82,12 +82,12 @@ Tried to start from most generalistic information to more detailed
 		   b/ By borough
 
 
---> From here onwards: data added today, so it does not look as finished, I would like to review if column names on pivot tables can be changed for example. Goal to add this was for me to train/review groupby and pivot tables		  
+From here onwards: data added today, so it does not look as finished, I would like to review if column names on pivot tables can be changed for example. Goal to add this was for me to train/review groupby and pivot tables		  
 	  	3. Average number of listings per host per borough 
 		4. Number of units per year 
 	   	  Easily showing when each marketplace boomed, by room type 
 		5. Average length of stay per borough
-		6. a/Correlation between average score and response time --> tried to put together information that would make sense, that I was curious about 
+		6. a/Correlation between average score and response time: tried to put together information that would make sense, that I was curious about 
 		  b/ And looked further to verify if there was a simple explanation. 
 		  Comments here apply to New York. 
 Unsurprisingly, hosts who take the longest to respond generally have lower Rating Scores, and Hosts who are Superhosts have higher Scores.
