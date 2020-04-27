@@ -73,7 +73,6 @@ Tried to start from most generalistic information to more detailed
 		Compared average room rate of units charging for cleaning fee to those which don't.  
 		Curious to review if units charging for a cleaning fee were deducting it from the room rate to be more attractive. 
 		Generally: True in every studied marketplaces, but in New York or Montreal!
-
 		Additionally, verifying whether - verifying which option is more affordable: units not charging cleaning fee and priced higher, or units charging for cleaning but priced lower. 
 	
 	8. Further unit description
@@ -93,7 +92,6 @@ Tried to start from most generalistic information to more detailed
 		  Comments here apply to New York. 
 Unsurprisingly, hosts who take the longest to respond generally have lower Rating Scores, and Hosts who are Superhosts have higher Scores.
 However, communication is not the score with a lower score, except when hosts respond within a few days of more and are not Superhosts.
-
 		7. Correlation between profile picture and number of reviews by month: 
 		Do guests who don't have profile pictures have less visitors per month?
 		# a/ Overall
@@ -104,7 +102,6 @@ However when looking at details by borough, it seems Queens recorded a particula
 		8. Average LOS required by borough by bed type
 		Comments here apply to New York. 
 The average length of stay requested overall is 7.4 nights, with Manhattan having the highest one: 9.0. Futons are actually the bed type requesting the highest minimum night stay, higher than real beds (+0.5pts), and Airbeds require a higher length of Stay than Couches, which require the lowest number of nights stay.
-
 		9. Average rating by borough by bed type
 		Comments here apply to New York.
 Staten Island and Brooklyn record the highest rating scores overall. Manhattan records a score below average: 93.7. 
