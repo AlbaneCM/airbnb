@@ -80,7 +80,7 @@ Tried to start from most generalistic information to more detailed
 		Not indicated often - pure curiosity 
 		2. a/ Part of hosts that are superhosts 
 		   b/ By borough
-		From here onwards: data added today, so it does not look as finished, I would like to review if column names on pivot tables can be changed for example. Goal to add this was for me to train/review groupby and pivot tables		  
+		From here onwards: data added recently, so organization is not as clear. I am more training on things I have not included before in this project/things I am reviewing or discovering as I continue the path on codecademy. 		  
 	  	3. Average number of listings per host per borough 
 		4. Number of units per year 
 	   	  Easily showing when each marketplace boomed, by room type 
@@ -104,6 +104,10 @@ The average length of stay requested overall is 7.4 nights, with Manhattan havin
 		Comments here apply to New York.
 Staten Island and Brooklyn record the highest rating scores overall. Manhattan records a score below average: 93.7. 
 This table doesn't take into account the number of reviews written by borough.
+		10. Weekly price discount
+		Training further on calculating aggregate functions
+		Comments here apply to New York.
+Despite Brooklyn and Manhattan having the highest number of units offering weekly discounts, they are the ones offering the lowest discounts - particularly Manhattan.
 
 
 
