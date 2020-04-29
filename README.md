@@ -80,16 +80,16 @@ Tried to start from most generalistic information to more detailed
 		Not indicated often - pure curiosity 
 		2. a/ Part of hosts that are superhosts 
 		   b/ By borough
-		From here onwards: data added recently, so organization is not as clear. I am more training on things I have not included before in this project/things I am reviewing or discovering as I continue the path on codecademy. 		  
+		From here onwards: data added recently, so organization is not as clear, and I am amending it on a daily basis as I find better ways to display it (i.e. what I just did for 6. review_scores but not yet for 7.). Goal is to train on things I have not included before in this project, or things I want to review, or as I am discovering as I continue the path on Codecademy. 		  
 	  	3. Average number of listings per host per borough 
 		4. Number of units per year 
 	   	  Easily showing when each marketplace boomed, by room type 
 		5. Average length of stay per borough
-		6. a/Correlation between average score and response time: tried to put together information that would make sense, that I was curious about 
-		  b/ And looked further to verify if there was a simple explanation. 
+		6. a/Correlation between average score and response time 
+		  Reviewing overall scores and verifying whether communication is the score impacting overall results
 		  Comments here apply to New York. 
-Unsurprisingly, hosts who take the longest to respond generally have lower Rating Scores, and Hosts who are Superhosts have higher Scores.
-However, communication is not the score with a lower score, except when hosts respond within a few days of more and are not Superhosts.
+Unsurprisingly, hosts who take the longest to respond generally have lower Overall scores ratings. Difference in ratings between regular and super hosts is drastic: up to 5 pts difference for host response within an hour. Hosts who are superhosts (naturally) have  higher scores."
+However, communication is not necessarily the score dragging scores down as they are generally similar between regular and superhosts.
 		7. Correlation between profile picture and number of reviews by month: 
 		Do guests who don't have profile pictures have less visitors per month?
 		a/ Overall
