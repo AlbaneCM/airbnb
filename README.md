@@ -111,6 +111,9 @@ This table doesn't take into account the number of reviews written by borough.
 		Comments here apply to New York.
 Despite Brooklyn and Manhattan having the highest number of units offering weekly discounts, they are the ones offering the lowest discounts - particularly Manhattan.
 		11. Work in progress.. started to work on further points but not ready to be taken into account yet :-)
+		I plan to calculate past revenue, future potential revenue based on minimum LOS requested and price per night if only night available.
+		I also would like to merge two tables as I know I should train on this. 
+		I just went through Hypothesis Testing so would like to test these too. This will take me a bit more time.   
 
 
 
