@@ -35,7 +35,7 @@ Regarding some of these I had started a separate file on the New York marketplac
 	I tried to automatize defining them, dividing them by equal numbers of units among 5 different boroughs. 
 	They are divided geographically: either by latitude or longitude, depending whether the market is wider in latitude or longitude. 
 
-6. Description: 10 main points about the marketplace. 
+6. Description: some main points about the marketplace. 
 Tried to start from most generalistic information to more detailed
 	1. Number of units in market
 	2. Number of boroughs per market and list of them
@@ -47,6 +47,8 @@ Tried to start from most generalistic information to more detailed
 	6. Room types definition
 	7. First and last listing date
 	8. Average price
+	##. Summary of main points about marketplace
+	-
 	Way to train on violinplots
 		8. a/ Price range 
 		8. b/ Price range by roomtype
