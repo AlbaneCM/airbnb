@@ -110,7 +110,7 @@ This table doesn't take into account the number of reviews written by borough.
 		Training further on calculating aggregate functions
 		Comments here apply to New York.
 Despite Brooklyn and Manhattan having the highest number of units offering weekly discounts, they are the ones offering the lowest discounts - particularly Manhattan.
-
+		11. Work in progress.. started to work on further points but not ready to be taken into account yet :-)
 
 
 
