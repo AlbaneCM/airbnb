@@ -110,7 +110,14 @@ This table doesn't take into account the number of reviews written by borough.
 		Training further on calculating aggregate functions
 		Comments here apply to New York.
 Despite Brooklyn and Manhattan having the highest number of units offering weekly discounts, they are the ones offering the lowest discounts - particularly Manhattan.
-		11. Work in progress.. started to work on further points but not ready to be taken into account yet :-)
+	9. (4. in Jupyter) Hypothesis Testing		
+		1. Do superhosts have more than 1 listing, and is the different significant?
+		2. a/ Do instant bookable units allow to charge a higher rate? 
+			Yes, the price difference is significant between units that are instantly bookable and those that aren't. 
+		2. b/ Is this difference driven by hotel rooms' prices (estimated to be higher) 
+		Tukey's Range Test shows we can reject this hypothesis - the price difference is significant among all room types (except between private and shared rooms). 
+		Note: working on for loop to create variables for each room type's price dataset.
+		>> Rest: Work in progress.. started to work on further points but not ready to be taken into account yet :-)
 		I plan to calculate past revenue, future potential revenue based on minimum LOS requested and price per night if only night available.
 		I also would like to merge two tables as I know I should train on this. 
 		I just went through Hypothesis Testing so would like to test these too. This will take me a bit more time.   
