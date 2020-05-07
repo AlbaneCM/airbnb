@@ -11,13 +11,12 @@ Web scraping and machine learning have not been reviewed yet.
 Data used: airbnb - coming from hotel industry, this was the available data that made the most sense. 
 Data: http://insideairbnb.com/get-the-data.html
 
-Goal for this project: replicate some basic analysis I could have performed on hotels. 
-
 *Note: I had started separately a blog review with this information on New York only, to explain more the analysis behind each graph. Hence why some comments are already made about New York and not about other markets. 
 Please feel free to indicate whether this seems a good idea to continue doing so or if graphs are pretty self-explanatory. 
 
 1. a/ Overall: 
 Option: to be able to chose a marketplace to analyse among several ones. I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
+Future goal: to iterate through each csv file without requiring to load each of them 
 
 1. b/ On Jupyter Notebook: 
 First, loaded all csv files. They are all too heavy to load on GitHub so I included one of the lightest ones: Ottawa. 
