@@ -14,7 +14,7 @@ Data: http://insideairbnb.com/get-the-data.html
 *Note: I had started separately a blog review with this information on New York only, to explain more the analysis behind each graph. Hence why some comments are already made about New York and not about other markets. 
 Please feel free to indicate whether this seems a good idea to continue doing so or if graphs are pretty self-explanatory. 
 
-1. a/ Choose a number corresponding to the city to explore: 
+1. Choose a number corresponding to the city to explore: 
 Option to chose a marketplace to analyze among 10 cities. Choosing a number rather than typing an actual city will be less prone to errors.
 I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
 
