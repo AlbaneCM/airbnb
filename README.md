@@ -1,5 +1,5 @@
 # airbnb
-first_project
+First project
 
 
 First Data Science project
