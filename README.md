@@ -41,7 +41,7 @@ Tried to start from most generalistic information to more detailed
 	8. Average price
 	##. Summary of main points about marketplace
 	-
-	Way to train on violinplots
+	Training on violinplots
 		8. a/ Price range 
 		8. b/ Price range by roomtype
 		8. c/ Price range by borough 
@@ -114,6 +114,3 @@ Despite Brooklyn and Manhattan having the highest number of units offering weekl
 		I also would like to merge two tables as I know I should train on this. 
 		
 
-
-
-Thank you so much for taking the time to go through this :-) 
