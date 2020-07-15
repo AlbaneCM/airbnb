@@ -110,7 +110,9 @@ Despite Brooklyn and Manhattan having the highest number of units offering weekl
 		2. b/ Is this difference driven by hotel rooms' prices (estimated to be higher) 
 		Tukey's Range Test shows we can reject this hypothesis - the price difference is significant among all room types (except between private and shared rooms). 
 		Use of dictionary to loop through each room type and create variables with price corresponding accordinlgy
-		>> Rest: Work in progress.. started to work on further points but not ready to be taken into account yet :-)
-		I also would like to merge two tables as I know I should train on this. 
+	>> Rest: Work in progress: 
+	getting list of most popular amenities in order to use them for machine learning, linear regression model 
 		
+	
+
 
