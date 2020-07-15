@@ -1,18 +1,11 @@
-# airbnb
-First project
+Airbnb: First Data Science project
 
-
-First Data Science project
-
-Goal: to train on concepts reviewed so far on Python, Pandas, NumPy, Seaborn, Matlplotlib.  
-
-Web scraping and machine learning have not been reviewed yet. 
+Goal: analyze Airbnb's data while training on concepts reviewed so far on Python, Pandas, NumPy, Seaborn, Matlplotlib.  
 
 Data used: airbnb - coming from hotel industry, this was the available data that made the most sense. 
 Data: http://insideairbnb.com/get-the-data.html
 
-*Note: I had started separately a blog review with this information on New York only, to explain more the analysis behind each graph. Hence why some comments are already made about New York and not about other markets. 
-Please feel free to indicate whether this seems a good idea to continue doing so or if graphs are pretty self-explanatory. 
+*Note: Comments & analysis are about the New York marketplace despite the possibility of changing marketplace, for the sake of this exercise. 
 
 1. Choose a number corresponding to the city to explore: 
 Option to chose a marketplace to analyze among 10 cities. Choosing a number rather than typing an actual city will be less prone to errors.
@@ -124,7 +117,3 @@ Despite Brooklyn and Manhattan having the highest number of units offering weekl
 
 
 Thank you so much for taking the time to go through this :-) 
-
---> overall question: when writing "if statements", should I always make them as part of functions, or can I just let them as just ifs, like I did in most cases?
-Thank you! 
-
