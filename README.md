@@ -5,14 +5,15 @@ Goal: analyze Airbnb's data while training on concepts reviewed so far on Python
 Data used: airbnb - coming from hotel industry, this was the available data that made the most sense. 
 Data: http://insideairbnb.com/get-the-data.html
 
-*Note: Comments & analysis are about the New York marketplace despite the possibility of changing marketplace, for the sake of this exercise. 
+*Note: This is a work in progress and the notebook is regularly updated to reflect the changes. 
+Comments & analysis are about the New York marketplace despite the possibility of changing marketplace, for the sake of this exercise. 
 
 1. Choose a number corresponding to the city to explore: 
 Option to chose a marketplace to analyze among 10 cities. Choosing a number rather than typing an actual city will be less prone to errors.
 I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
 
 Amended to pick only the csv file needed so the site would load faster. 
-I included one of the lightest csv files on GitHub for reference: Ottawa. 
+I included one of the lightest csv files on GitHub for reference: Quebec. 
 
 2. Tried to clean unusable data such as numeric or date columns that were texts. 
 
