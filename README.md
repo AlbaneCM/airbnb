@@ -1,6 +1,6 @@
 Airbnb: First Data Science project
 
-Goal: analyze Airbnb's data while training on concepts reviewed so far on Python, Pandas, NumPy, Seaborn, Matlplotlib.  
+Goal: to analyze Airbnb's data while reviewing concepts learned on Python, using various modules and libraries including Pandas, NumPy, Seaborn, Matlplotlib, Math, Regular Expressions and Collections.  
 
 Data used: airbnb - coming from hotel industry, this was the available data that made the most sense. 
 Data: http://insideairbnb.com/get-the-data.html
