@@ -10,7 +10,7 @@ Comments & analysis are about the New York marketplace despite the possibility o
 
 1. Choose a number corresponding to the city to explore: 
 Option to chose a marketplace to analyze among 10 cities. Choosing a number rather than typing an actual city will be less prone to errors.
-I chose 10 main cities: 5 in Canada and 5 in the US - similarly to the Fairmont hotels marketplace. 
+I chose 10 main cities: 5 in Canada and 5 in the US. 
 
 Amended to pick only the csv file needed so the site would load faster. 
 I included one of the lightest csv files on GitHub for reference: Quebec. 
@@ -18,8 +18,6 @@ I included one of the lightest csv files on GitHub for reference: Quebec.
 2. Tried to clean unusable data such as numeric or date columns that were texts. 
 
 3. The first part of the project contains some basic information that was allowing me to purely train on the concepts I learned in the Data Science codecademy program. i.e. quantile divisions, distribution modality, median, variance, standard deviation. 
-
-Regarding some of these I had started a separate file on the New York marketplace only analyzing further into details these such as New York having a bimodal distribution etc. Which I removed when I finalized the option to easily switch from 1 market to another. 
 
 4. Map representation. I was curious to visually picture where the most concentrated and the priciest boroughs were. Originally tried with mapleaflet but the csv files were too heavy to work (or I couldn't make it work!) - thus the google map screenshots. 
 
